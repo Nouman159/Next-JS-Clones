@@ -1,0 +1,323 @@
+[
+    {
+        "id": 1,
+        "date": "2024-03-29",
+        "timeReceived": "11:19 PM",
+        "phoneNumber": "1234567890",
+        "name": "Kate",
+        "timeInMinutes": "5 31 min",
+        "details": "Asked about product specifications",
+        "status": "Unread"
+    },
+    {
+        "id": 2,
+        "date": "2024-03-30",
+        "timeReceived": "11:19 PM",
+        "phoneNumber": "1234567890",
+        "name": "Kate",
+        "timeInMinutes": "5 31 min",
+        "details": "Asked about product specifications",
+        "status": "Unread"
+    },
+    {
+        "id": 3,
+        "date": "2024-03-30",
+        "timeReceived": "11:30 AM",
+        "phoneNumber": "9876543210",
+        "name": "Jane",
+        "timeInMinutes": "10 15 min",
+        "details": "Inquired about service availability. Expressed interest in scheduling a demo.",
+        "status": "Read",
+        "additionalStatus": [
+            "Sales"
+        ]
+    },
+    {
+        "id": 4,
+        "date": "2024-03-31",
+        "timeReceived": "11:45 AM",
+        "phoneNumber": "5555555555",
+        "name": "Alice",
+        "timeInMinutes": "7 42 min",
+        "details": "Requested callback for support. Reported issue with the software.",
+        "status": "Unread",
+        "additionalStatus": [
+            "Dispatch"
+        ]
+    },
+    {
+        "id": 5,
+        "date": "2024-03-30",
+        "timeReceived": "01:00 PM",
+        "phoneNumber": "9999999999",
+        "name": "Bob",
+        "timeInMinutes": "12 20 min",
+        "details": "Asked about pricing plans. Inquired about additional features.",
+        "status": "Unread",
+        "additionalStatus": [
+            "Sales"
+        ]
+    },
+    {
+        "id": 6,
+        "date": "2024-03-30",
+        "timeReceived": "02:15 PM",
+        "phoneNumber": "6666666666",
+        "name": "Ella",
+        "timeInMinutes": "8 58 min",
+        "details": "Requested product demo. Discussed customization options.",
+        "status": "Read"
+    },
+    {
+        "id": 7,
+        "date": "2024-03-30",
+        "timeReceived": "03:30 PM",
+        "phoneNumber": "1111111111",
+        "name": "Mike",
+        "timeInMinutes": "6 37 min",
+        "details": "Follow-up on previous conversation. Asked about order status.",
+        "status": "Unread"
+    },
+    {
+        "id": 8,
+        "date": "2024-03-29",
+        "timeReceived": "04:45 PM",
+        "phoneNumber": "7777777777",
+        "name": "Sarah",
+        "timeInMinutes": "9 24 min",
+        "details": "Inquired about account setup. Requested assistance with login.",
+        "status": "Unread",
+        "additionalStatus": [
+            "Dispatch",
+            "human_resource"
+        ]
+    },
+    {
+        "id": 9,
+        "date": "2024-03-31",
+        "timeReceived": "04:45 PM",
+        "phoneNumber": "7777777777",
+        "name": "Sarah",
+        "timeInMinutes": "9 24 min",
+        "details": "Inquired about account setup. Requested assistance with login.",
+        "status": "Unread",
+        "additionalStatus": [
+            "Dispatch",
+            "human_resource"
+        ]
+    },
+    {
+        "id": 10,
+        "date": "2024-03-31",
+        "timeReceived": "04:45 PM",
+        "phoneNumber": "7777777777",
+        "name": "Sarah",
+        "timeInMinutes": "9 24 min",
+        "details": "Inquired about account setup. Requested assistance with login.",
+        "status": "Unread",
+        "additionalStatus": [
+            "Dispatch",
+            "human_resource"
+        ]
+    },
+    {
+        "id": 11,
+        "date": "2024-03-29",
+        "timeReceived": "04:45 PM",
+        "phoneNumber": "7777777777",
+        "name": "Sarah",
+        "timeInMinutes": "9 24 min",
+        "details": "Inquired about account setup. Requested assistance with login.",
+        "status": "Unread",
+        "additionalStatus": [
+            "Dispatch",
+            "human_resource"
+        ]
+    },
+    {
+        "id": 12,
+        "date": "2024-03-30",
+        "timeReceived": "06:00 PM",
+        "phoneNumber": "2222222222",
+        "name": "Chris",
+        "timeInMinutes": "11 49 min",
+        "details": "Asked about troubleshooting steps. Requested escalation to technical support.",
+        "status": "Read",
+        "additionalStatus": [
+            "Sales"
+        ]
+    },
+    {
+        "id": 13,
+        "date": "2024-03-30",
+        "timeReceived": "07:15 PM",
+        "phoneNumber": "8888888888",
+        "name": "Emily",
+        "timeInMinutes": "10 12 min",
+        "details": "Follow-up on recent purchase. Expressed satisfaction with service.",
+        "status": "Read",
+        "additionalStatus": [
+            "Dispatch"
+        ]
+    },
+    {
+        "id": 14,
+        "date": "2024-03-30",
+        "timeReceived": "08:30 PM",
+        "phoneNumber": "3333333333",
+        "name": "David",
+        "timeInMinutes": "8 53 min",
+        "details": "Asked about upcoming promotions. Inquired about return policy.",
+        "status": "Read",
+        "additionalStatus": [
+            "human_resource",
+            "Sales"
+        ]
+    },
+    {
+        "id": 15,
+        "date": "2024-03-30",
+        "timeReceived": "09:45 PM",
+        "phoneNumber": "9999999999",
+        "name": "Kate",
+        "timeInMinutes": "7 28 min",
+        "details": "Requested callback for technical issue. Reported bug in software.",
+        "status": "Read"
+    },
+    {
+        "id": 16,
+        "date": "2024-03-30",
+        "timeReceived": "11:00 PM",
+        "phoneNumber": "4444444444",
+        "name": "Kate",
+        "timeInMinutes": "9 16 min",
+        "details": "Inquired about upcoming product launch. Asked about compatibility with existing systems.",
+        "status": "Read",
+        "additionalStatus": [
+            "Sales"
+        ]
+    },
+    {
+        "id": 17,
+        "date": "2024-03-28",
+        "timeReceived": "12:15 AM",
+        "phoneNumber": "5555555555",
+        "name": "Sophia",
+        "timeInMinutes": "6 47 min",
+        "details": "Follow-up on support ticket. Asked about warranty coverage.",
+        "status": "Unread",
+        "additionalStatus": [
+            "Dispatch"
+        ]
+    },
+    {
+        "id": 18,
+        "date": "2024-03-27",
+        "timeReceived": "12:15 AM",
+        "phoneNumber": "5555555555",
+        "name": "Kate",
+        "timeInMinutes": "6 47 min",
+        "details": "Follow-up on support ticket. Asked about warranty coverage.",
+        "status": "Unread",
+        "additionalStatus": [
+            "Dispatch"
+        ]
+    },
+    {
+        "id": 19,
+        "date": "2024-03-28",
+        "timeReceived": "01:30 AM",
+        "phoneNumber": "6666666666",
+        "name": "Gonzales",
+        "timeInMinutes": "8 34 min",
+        "details": "Requested assistance with setup. Inquired about training materials.",
+        "status": "Read",
+        "additionalStatus": [
+            "Sales"
+        ]
+    },
+    {
+        "id": 20,
+        "date": "2024-03-28",
+        "timeReceived": "01:30 AM",
+        "phoneNumber": "6666666666",
+        "name": "Gonzales",
+        "timeInMinutes": "8 34 min",
+        "details": "Requested assistance with setup. Inquired about training materials.",
+        "status": "Read"
+    },
+    {
+        "id": 21,
+        "date": "2024-03-28",
+        "timeReceived": "01:30 AM",
+        "phoneNumber": "6666666666",
+        "name": "Gonzales",
+        "timeInMinutes": "8 34 min",
+        "details": "Requested assistance with setup. Inquired about training materials.",
+        "status": "Read",
+        "additionalStatus": [
+            "human_resource"
+        ]
+    },
+    {
+        "id": 22,
+        "date": "2024-03-28",
+        "timeReceived": "01:30 AM",
+        "phoneNumber": "6666666666",
+        "name": "Gonzales",
+        "timeInMinutes": "8 34 min",
+        "details": "Requested assistance with setup. Inquired about training materials.",
+        "status": "Read"
+    },
+    {
+        "id": 23,
+        "date": "2024-03-28",
+        "timeReceived": "01:30 AM",
+        "phoneNumber": "6666666666",
+        "name": "Gonzales",
+        "timeInMinutes": "8 34 min",
+        "details": "Requested assistance with setup. Inquired about training materials.",
+        "status": "Read",
+        "additionalStatus": [
+            "Sales"
+        ]
+    },
+    {
+        "id": 24,
+        "date": "2024-03-28",
+        "timeReceived": "01:30 AM",
+        "phoneNumber": "6666666666",
+        "name": "William",
+        "timeInMinutes": "8 34 min",
+        "details": "Requested assistance with setup. Inquired about training materials.",
+        "status": "Read"
+    },
+    {
+        "id": 25,
+        "date": "2024-03-28",
+        "timeReceived": "02:45 AM",
+        "phoneNumber": "7777777777",
+        "name": "Isabella",
+        "timeInMinutes": "7 21 min",
+        "details": "Asked about account access. Requested password reset.",
+        "status": "Unread",
+        "additionalStatus": [
+            "Dispatch",
+            "human_resource"
+        ]
+    },
+    {
+        "id": 26,
+        "date": "2024-03-30",
+        "timeReceived": "02:45 AM",
+        "phoneNumber": "7777777777",
+        "name": "Kate",
+        "timeInMinutes": "7 18 min",
+        "details": "Asked about account access. Requested password reset.",
+        "status": "Read",
+        "additionalStatus": [
+            "Dispatch",
+            "human_resource"
+        ]
+    }
+]
